@@ -1,0 +1,1 @@
+Select sum(Sales) FROM testpy.orders;
